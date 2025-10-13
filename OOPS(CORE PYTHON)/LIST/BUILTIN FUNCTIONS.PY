@@ -1,0 +1,9 @@
+l=[1,2,3,4,5]
+print(len(l))
+print(any(l))
+print(all(l))
+print(min(l))
+print(max(l))
+l=[1,2,0,4,5]
+print(any(l))
+print(all(l))

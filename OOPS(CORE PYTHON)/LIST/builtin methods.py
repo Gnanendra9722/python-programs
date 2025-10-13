@@ -1,0 +1,16 @@
+l=[10,20,30,40]
+print(l)
+l.append(50)
+print(l)
+l.extend([60,70])
+print(l)
+l.insert(2,20.3)
+print(l)
+l.pop()
+print(l)
+l.remove(20.3)
+print(l)
+l.clear()
+print(l)
+del l
+print(l)
